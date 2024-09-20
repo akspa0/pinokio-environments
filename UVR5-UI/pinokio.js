@@ -1,7 +1,7 @@
 const path = require('path')
 module.exports = {
   version: "2.0",
-  title: "UVR5-UI",
+  title: "UVR5-UI[Pinokio]",
   description: "",
   icon: "icon.png",
   menu: async (kernel, info) => {
